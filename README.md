@@ -10,6 +10,9 @@ Se trata de una solución simple, organizada y funcional para gestionar una tien
 
 - **desktop_app/**  
   Aplicación de escritorio desarrollada en Java (sencillo). Incluye un ejemplo funcional de login y estructura básica de gestión.
+  
+- `LoginDemo.java`: simula el sistema de login por consola
+- `StockManager.java`: simula la gestión básica de stock con entradas, salidas y control de disponibilidad
 
 - **web_app/**  
   Página web con HTML y PHP para simular el acceso del cliente y el sistema de tickets.
@@ -19,6 +22,7 @@ Se trata de una solución simple, organizada y funcional para gestionar una tien
 
 - **diagrams/**  
   Diagramas UML del sistema: login, tickets, estocaje y esquema general.
+  
 
 ---
 
